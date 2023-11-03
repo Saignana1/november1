@@ -22,14 +22,18 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.testng.annotations.Test;
 
 class fhello{
-@Test(priority = 1)
-public void setvalue() throws EncryptedDocumentException, IOException {
 
-
+public void print() {
+	System.out.println("hi");
+System.out.println("how are u");
+}
 
 }
+
+
+
 			
-}
+
 
 
 

@@ -36,6 +36,7 @@ class abc{
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\nagam\\Downloads\\chromedriver-win64 (1)\\chromedriver-win64\\chromedriver.exe");
 		driver.get("http://facebook.com");
 		driver.manage().window().maximize();
+		
 
 			}
 	}
